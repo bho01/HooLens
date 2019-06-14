@@ -1,0 +1,6 @@
+framework module Pods_HooLens {
+  umbrella header "Pods-HooLens-umbrella.h"
+
+  export *
+  module * { export * }
+}

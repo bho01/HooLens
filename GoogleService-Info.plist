@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>836726342794-0egjrm6rlr5k7f77nenbjas5dm73tjpe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.836726342794-0egjrm6rlr5k7f77nenbjas5dm73tjpe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBK1_mZPV9k-n9kjr4SV6WRj6uXUUGJVFs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>836726342794</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.banjo.HooLens</string>
+	<key>PROJECT_ID</key>
+	<string>hoolens</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hoolens.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:836726342794:ios:0b0009a578eeebfc</string>
+	<key>DATABASE_URL</key>
+	<string>https://hoolens.firebaseio.com</string>
+</dict>
+</plist>

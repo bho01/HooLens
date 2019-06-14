@@ -1,0 +1,6 @@
+framework module Pods_HooLensUITests {
+  umbrella header "Pods-HooLensUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
